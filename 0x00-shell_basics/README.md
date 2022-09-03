@@ -1,1 +1,1 @@
-Delete the file betty from my_first_directory
+removing a directory from another directory
