@@ -1,1 +1,1 @@
-script that long format,user and group ID numerically and hidden files
+Move the file betty from /tmp/ to /tmp/my_first_directory.
