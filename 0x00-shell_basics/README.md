@@ -1,1 +1,1 @@
-prints out the content list of my directory.
+script that displays directory in a long list format
