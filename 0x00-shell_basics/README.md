@@ -1,1 +1,1 @@
-Move the file betty from /tmp/ to /tmp/my_first_directory.
+changing for current working directory to user home directory.
