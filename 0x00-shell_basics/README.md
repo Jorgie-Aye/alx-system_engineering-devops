@@ -1,1 +1,1 @@
-changing for current working directory to user home directory.
+Delete the file betty from my_first_directory
