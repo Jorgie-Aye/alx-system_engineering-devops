@@ -1,0 +1,1 @@
+Script that prints a world followed by a new line to the standard output
